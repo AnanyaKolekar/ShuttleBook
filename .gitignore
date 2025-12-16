@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# Environment variables (secrets)
+.env
+backend/.env
+frontend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+frontend/dist/
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
