@@ -1,10 +1,8 @@
 # Badminton Court Booking System (MERN)
 
 Full-stack MERN application for booking badminton courts with equipment and coaches, backed by a configuration-driven pricing engine and admin management.
+🔗 **Live Demo:** https://shuttle-book-qk96psw0o-ananyas-projects-64c5647f.vercel.app
 
-
-##Project Deployed Link
-shuttle-book-qk96psw0o-ananyas-projects-64c5647f.vercel.app
 ## Prerequisites
 - Node.js 18+
 - MongoDB 5+ running locally or a connection string
